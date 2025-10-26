@@ -1,5 +1,5 @@
 
-# README – Praktikum Segmentasi Citra (Thresholding)
+# Segmentasi Citra (Thresholding)
 
 ## Deskripsi Singkat
 
